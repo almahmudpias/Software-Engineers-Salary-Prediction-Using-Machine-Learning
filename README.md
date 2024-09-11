@@ -34,6 +34,9 @@ The methodology includes the following steps:
 
 5.Data Splitting: Splitting the dataset into 70% training and 30% test sets.
 
+![Project Screenshot](methodo.png)
+
+
 6.Modeling: Implementing multiple regression models, including:
 
           1.Decision Tree
@@ -46,9 +49,14 @@ The methodology includes the following steps:
           
           5.XGBoost
           
+          
 ****Results****
 
 **Best Performing Model:** XGBoost with an R-squared score of 72% on the training set and 65% on the test set.
+
+![Project Screenshot](file1.png)
+
+![Project Screenshot](file2.png)
 
 **Metrics:** The model's performance was evaluated using Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), and R-squared values.
 
