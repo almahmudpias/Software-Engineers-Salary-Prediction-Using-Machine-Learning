@@ -54,10 +54,12 @@ The methodology includes the following steps:
 
 **Best Performing Model:** XGBoost with an R-squared score of 72% on the training set and 65% on the test set.
 
+**Metrics:** The model's performance was evaluated using Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), and R-squared values.
+
+![Project Screenshot](file3.png)
+
+**Comparisons:** Other models, such as Decision Tree and Random Forest, performed well but XGBoost gave the highest accuracy.
+
 ![Project Screenshot](file1.png)
 
 ![Project Screenshot](file2.png)
-
-**Metrics:** The model's performance was evaluated using Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), and R-squared values.
-
-**Comparisons:** Other models, such as Decision Tree and Random Forest, performed well but XGBoost gave the highest accuracy.
